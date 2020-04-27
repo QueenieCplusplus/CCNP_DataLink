@@ -88,7 +88,7 @@ once if a SW were config as DTP, Synamic Trunking Protocol auto on, and were to 
  
  (2) software upgrade
 
-
+# Multicast Brute-Force Attack, 暴力攻擊或稱窮舉攻擊
 
 
 
