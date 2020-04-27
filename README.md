@@ -1,4 +1,4 @@
-# CCNP_DataLink
+# CCNP DataLink
 OSI Layer 2 (802.3)
 
 
@@ -45,4 +45,20 @@ p529 --- Data-Link Attack --- Multicast Brute Force Attack
 
 p529 --- Data-Link Attack --- Random Frame Stress Attack
 
-# Mac Flood
+# Mac Flood (Packets Flood), 媒體存取控制泛洪水
+
+this is not a properly network attack, but a limitation of the way all SW and Bridges work.
+
+they possess a finite hardware which is learning (listening) table (kind of Data base) to store the src addr (source addresses) of all rcv (received) packets.
+
+however once the table is full, then the hardware can not learn any more src addresses for its desired traffic, then the MAC Flood occurs.
+
+Packet Flood is constrained within the Vlan of origin, so vlan hop is not permitted.
+
+Malicious users can connect to this sw, and turn it into a dumb psudo-hub (Hub), then sniffing all the flooding traffic.
+
+# ARP Poisoning, 欺騙或稱毒化乙太網路位址解析協議
+
+Mac Flood 漏洞的實際攻擊。
+
+
