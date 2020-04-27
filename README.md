@@ -87,3 +87,9 @@ once if a SW were config as DTP, Synamic Trunking Protocol auto on, and were to 
  (1) hardware well-config to off
  
  (2) software upgrade
+
+
+
+
+
+
