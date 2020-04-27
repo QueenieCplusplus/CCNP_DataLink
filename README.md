@@ -70,5 +70,7 @@ Mac Flood 漏洞的實際攻擊。
  
  with Port Security, it prevent from limitstion of MAC addr assigning to a single port.
  
+ other secure way to check the forwarded packets for identify correctness by usign ARP inspection.
+ 
  
 
