@@ -79,3 +79,5 @@ Mac Flood 漏洞的實際攻擊。
 https://www.jannet.hk/zh-Hant/post/virtual-lan-vlan-attack/
 
 it is a schema allows malicious user to get Unauthorized access to another (attacked) Vlan.
+
+once if a SW were config as DTP, Synamic Trunking Protocol auto on, and were to rcv a fake DTP packet, it might be a trunk port and start to acceot the traffic destined for any Vlan thru the compromised port.
