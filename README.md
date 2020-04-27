@@ -4,8 +4,8 @@ OSI Layer 2 (802.3)
 
                     OSI
                     
-                 Data Link         Logic Link Control 
-                    Layer               MAC
+                 Data Link         Logic Link Control
+                    Layer               MAC (Media Access Control), Ethernet, Token Bus
      
 
 WAN 的封裝使用的是 Layer 2 資料連結（又稱資料鏈結）層的協定：
