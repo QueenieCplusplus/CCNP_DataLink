@@ -37,6 +37,8 @@ WAN 的封裝使用的是 Layer 2 資料連結（又稱資料鏈結）層的協�
 
 * ISL, Inter-SW Level Attack & 802.1Q Vlan Atack
 
+https://github.com/QueenieCplusplus/CCNP_DataLink/blob/master/README.md#8021q--isl-tagging-attck-虛擬區域網路攻擊
+
 * Spanning-Tree Attack
 
 * Multicast Brute Force Attack
