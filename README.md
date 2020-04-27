@@ -67,4 +67,8 @@ Mac Flood 漏洞的實際攻擊。
                                |
                                
                       LAN Malicious Hacker 
+                      
+ * Prevention
+ 
+ with Port Security, it prevent from limitstion of MAC addr assigning to a single port.
 
