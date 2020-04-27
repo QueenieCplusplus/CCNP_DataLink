@@ -2,10 +2,10 @@
 OSI Layer 2 (802.3)
 
 
-      WAN        OSI
+      WAN        OSI        IEEE802.3
                     
-     x.25      Data Link        Logic Link Control
-     PPP         Layer          MAC (Media Access Control), Ethernet, Token Bus
+     x.25      Data Link     LLC (Logic Link Control)
+     PPP         Layer       MAC (Media Access Control), Ethernet, Token Bus
      
 
 WAN 的封裝使用的是 Layer 2 資料連結（又稱資料鏈結）層的協定：
