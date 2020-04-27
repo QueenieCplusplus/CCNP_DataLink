@@ -90,6 +90,11 @@ once if a SW were config as DTP, Synamic Trunking Protocol auto on, and were to 
 
 # Multicast Brute-Force Attack, 暴力攻擊或稱窮舉攻擊
 
+this attack tries to expoit SWs' potentail vulnerabilities, or bugs, against storm of L2 multicast frames. This causes leak frame (訊框或是區段區塊) to other SW.
+
+ * Prevention
+ 
+ the correct behavior shall be to constrain the traffic to its Vlan of origin.
 
 
 
