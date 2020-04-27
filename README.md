@@ -41,6 +41,8 @@ WAN 的封裝使用的是 Layer 2 資料連結（又稱資料鏈結）層的協�
 
 * Multicast Brute Force Attack
 
+https://github.com/QueenieCplusplus/CCNP_DataLink/blob/master/README.md#multicast-brute-force-attack-暴力攻擊或稱窮舉攻擊
+
 * Random Frame Stress Attack
 
 # Mac Flood (Packets Flood), 媒體存取(或稱訪問)控制泛洪
