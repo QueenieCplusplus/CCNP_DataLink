@@ -31,7 +31,7 @@ WAN 的封裝使用的是 Layer 2 資料連結（又稱資料鏈結）層的協�
 
 # Attack in Layer 2
 
-p526 --- Data-Link Attack --- MAC Flood --- p529 --- MACsec
+MAC Flood --- p529 --- MACsec
 
 p527 --- Data-Link Attack --- Inter-SW Level Attack
 
@@ -44,3 +44,5 @@ p529 --- Data-Link Attack --- Spanning-Tree Attack
 p529 --- Data-Link Attack --- Multicast Brute Force Attack
 
 p529 --- Data-Link Attack --- Random Frame Stress Attack
+
+# Mac Flood
