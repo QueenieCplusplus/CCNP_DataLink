@@ -62,3 +62,9 @@ Malicious users can connect to this sw, and turn it into a dumb psudo-hub (Hub),
 Mac Flood 漏洞的實際攻擊。
 
 
+      LAN Hosts   <------->   SW   <------->    LAN GW   ---------  Internet
+      
+                               |
+                               
+                      LAN Malicious Hacker 
+
