@@ -33,6 +33,8 @@ WAN 的封裝使用的是 Layer 2 資料連結（又稱資料鏈結）層的協�
 
 * MAC Flood --- p529 --- MACsec
 
+https://github.com/QueenieCplusplus/CCNP_DataLink/blob/master/README.md#mac-flood-packets-flood-媒體存取或稱訪問控制泛洪
+
 * ARP attack
 
 * ISL, Inter-SW Level Attack & 802.1Q Vlan Atack
