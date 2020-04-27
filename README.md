@@ -43,7 +43,7 @@ WAN 的封裝使用的是 Layer 2 資料連結（又稱資料鏈結）層的協�
 
 * Random Frame Stress Attack
 
-# Mac Flood (Packets Flood), 媒體存取控制泛洪水
+# Mac Flood (Packets Flood), 媒體存取(或稱訪問)控制泛洪水
 
 this is not a properly network attack, but a limitation of the way all SW and Bridges work.
 
