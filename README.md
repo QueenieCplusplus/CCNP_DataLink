@@ -57,7 +57,7 @@ Packet Flood is constrained within the Vlan of origin, so vlan hop is not permit
 
 Malicious users can connect to this sw, and turn it into a dumb psudo-hub (Hub), then sniffing all the flooding traffic.
 
-# ARP Poisoning, 欺騙或稱毒化乙太網路位址解析協議
+# ARP Cache Poisoning, 欺騙或稱毒化乙太網路位址解析協議
 
 Mac Flood 漏洞的實際攻擊。
 
