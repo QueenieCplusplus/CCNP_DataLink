@@ -77,3 +77,5 @@ Mac Flood 漏洞的實際攻擊。
  ![ISL](https://www.jannet.hk/content/public/upload/vlan-attack/01.png)
  
 https://www.jannet.hk/zh-Hant/post/virtual-lan-vlan-attack/
+
+it is a schema allows malicious user to get Unauthorized access to another (attacked) Vlan.
