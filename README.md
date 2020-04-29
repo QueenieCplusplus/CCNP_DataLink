@@ -11,6 +11,10 @@ OSI Layer 2 (802.3)
 
 ![end device](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/94640851_4236881559658953_7588762712981635072_o.png?_nc_cat=107&_nc_sid=2d5d41&_nc_ohc=vr82mC0l2DYAX81Hnq2&_nc_ht=scontent.ftpe8-3.fna&oh=cd26a453f7d716e947591fba57465b41&oe=5ECE7915)
 
+* Switcher:
+
+![sw](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/95248772_4236883602992082_2837311621154471936_o.png?_nc_cat=107&_nc_sid=110474&_nc_ohc=hFQOcO-_nU8AX9Nqmd7&_nc_ht=scontent.ftpe8-3.fna&oh=794d975f93b93f5986f21b0d34e31be7&oe=5ECE97F4)
+
 WAN 的封裝使用的是 Layer 2 資料連結（又稱資料鏈結）層的協定：
 此協定確保實體層連結的資料的正確性，包含資料傳輸的錯誤偵測與錯誤更正功能，幫助 Layer 3 能夠正確地存取實體層資料，可以說是介於實體與邏輯之間的封裝功能。
 
